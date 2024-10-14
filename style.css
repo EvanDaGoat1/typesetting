@@ -155,7 +155,7 @@ a[href*= "http"]{
   padding-left: .59em;
   text-decoration: none;
   outline: none;
-  background: url('icons/external-link-52.png');
+  background: url('external-link-52.png');
   background-size: .58em .58em;
   background-position: 0 2px;
   background-repeat: no-repeat;
